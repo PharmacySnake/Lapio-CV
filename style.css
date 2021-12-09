@@ -1,0 +1,76 @@
+* {
+    font-family: 'Tahoma', sans-serif;
+    background-color: #FAEFE1;
+}
+.left-margin {
+    width: 15%;
+    height: 15%;
+    left: 2%;
+    padding-top: 2%;
+    position: absolute;
+}
+
+.mid-page {
+    background-color: bisque;
+    width: 80%;
+    height: auto;
+    left: 10%;
+    right: 10%;
+    position: absolute;
+}
+
+.text-area {
+    width: 75%;
+    left: 22%;
+    position: absolute;
+}
+
+.caption-text {
+    color: #2f2e6f;
+    text-transform: uppercase;
+}
+
+h3 {
+    color: #2f2e6f;
+    text-transform: uppercase;
+    text-align: right;
+}
+
+.margin-text {
+    color: #776688;
+    text-align: right;
+    font-size: 75%;
+    
+}
+
+.essential-text {
+    color: #242339;
+    font-size: 90%;
+    margin-top: 5%;
+}
+
+.additional-text {
+    color: #776688;
+    padding-left: 5%;
+    font-size: 75%;
+    
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    
+}
+
+.blamoji {
+    font-size: 150%;
+    color: transparent;
+    text-shadow: 0 0 0 #1e1e1e,
+                1px 1px 3px #0f0f0f;
+}
+
+.emoji {
+    font-size: 150%;
+}
+
+
